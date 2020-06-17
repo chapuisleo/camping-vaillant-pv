@@ -29,7 +29,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
 * [x] Comité : Léo
 * [x] Fondation Sandoz
 * [x] Autorités (Conseil communal, voirie, SDP, Vaucher) : Léo 
-* [ ] Sponsors validés : Joaquim
+* [x] Sponsors validés : Joaquim
   * [x] Adrien Steudler Ramonage Sàrl (--> option B)
   * [x] AMJ Coiffure (--> option B)
   * [x] AXA Winterthur (--> B)
@@ -45,7 +45,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] Gilbert Petit-Jean SA (--> B)
   * [x] Jeanneret Pneus (--> B)
   * [x] La Croisette (--> B)
-  * [ ] Laiterie Loubry
+  * [x] Laiterie Loubry
   * [x] Magic Hands (--> B)
   * [x] Mari'Look Coiffure (--> B)
   * [x] Menuiserie Casati (--> B)
